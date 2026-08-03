@@ -1,0 +1,15 @@
+{
+	"name": "adfspotifyproject1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52162a16-d63d-40c0-af7d-fbbba53a8d4a",
+		"tenantId": "7d5df0c1-aaaf-4b11-8131-c265f60a2b62"
+	}
+}
